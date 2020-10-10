@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/micro-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-consumer-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-erueka01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-eureka02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-eureka03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-parent/micro-consumer01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-product01" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-product02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-product03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/micro-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

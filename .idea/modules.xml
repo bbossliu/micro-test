@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro-api/micro-api.iml" filepath="$PROJECT_DIR$/micro-api/micro-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-consumer-feign/micro-consumer-feign.iml" filepath="$PROJECT_DIR$/micro-consumer-feign/micro-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-parent/micro-consumer01/micro-consumer01.iml" filepath="$PROJECT_DIR$/micro-parent/micro-consumer01/micro-consumer01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-dashboard/micro-dashboard.iml" filepath="$PROJECT_DIR$/micro-dashboard/micro-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-erueka01/micro-erueka01.iml" filepath="$PROJECT_DIR$/micro-erueka01/micro-erueka01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-eureka02/micro-eureka02.iml" filepath="$PROJECT_DIR$/micro-eureka02/micro-eureka02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-eureka03/micro-eureka03.iml" filepath="$PROJECT_DIR$/micro-eureka03/micro-eureka03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-hystrix/micro-hystrix.iml" filepath="$PROJECT_DIR$/micro-hystrix/micro-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-parent/micro-parent.iml" filepath="$PROJECT_DIR$/micro-parent/micro-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-product01/micro-product01.iml" filepath="$PROJECT_DIR$/micro-product01/micro-product01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-product02/micro-product02.iml" filepath="$PROJECT_DIR$/micro-product02/micro-product02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-product03/micro-product03.iml" filepath="$PROJECT_DIR$/micro-product03/micro-product03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-zuul/micro-zuul.iml" filepath="$PROJECT_DIR$/micro-zuul/micro-zuul.iml" />
+    </modules>
+  </component>
+</project>

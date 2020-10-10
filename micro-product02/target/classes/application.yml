@@ -1,0 +1,19 @@
+server:
+  port: 8889
+eureka:
+  instance:
+    instance-id: LXCloudProvider02 #配置本服务在eureka中的id
+  client:
+    service-url:
+      defaultZone: http://eureka10001.com:10001/eureka/,http://eureka10002.com:10002/eureka/
+info:
+  author: lx
+  #通过父工程pom.xml中maven-resource-plugin设置的$，获取本项目的maven 坐标
+  project.groupId: $project.groupId
+  project.artifactId: $project.artifactId
+  project.version: $project.version
+  #通过SpEL的${}动态获取本yaml中的属性值
+  eureka.client.service-url.defaultZone: ${eureka.client.service-url.defaultZone}
+spring:
+  application:
+    name: product

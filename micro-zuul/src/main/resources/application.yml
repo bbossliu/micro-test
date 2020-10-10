@@ -1,0 +1,17 @@
+server:
+  port: 20202
+spring:
+  application:
+    name: cloud-zuul
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka10001.com:10001/eureka/,http://eureka10002.com:10002/eureka/
+  instance:
+    hostname: lxzuul
+zuul:
+  prefix: /lx
+  ignored-services: "*"  #屏蔽之前用product进行访问服务
+  routes:
+    mydept.serviceId: product
+    mydept.path: /zuulProxy/*
